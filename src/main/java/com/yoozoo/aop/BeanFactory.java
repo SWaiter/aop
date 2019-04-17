@@ -1,4 +1,4 @@
-package com.yoozoo;
+package com.yoozoo.aop;
 
 import java.io.IOException;
 import java.io.InputStream;

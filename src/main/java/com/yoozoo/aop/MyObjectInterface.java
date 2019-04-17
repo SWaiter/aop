@@ -1,4 +1,4 @@
-package com.yoozoo;
+package com.yoozoo.aop;
 
 /**
  * Created on 2019/4/16.
